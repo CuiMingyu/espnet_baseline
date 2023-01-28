@@ -1,0 +1,1 @@
+/home/cuimingyu/project/espnet_transducer.master/run_slurm_decoding.sh
